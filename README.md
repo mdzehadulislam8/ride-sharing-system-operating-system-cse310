@@ -29,12 +29,12 @@ A Bash-based ride-sharing platform using Dijkstra’s Algorithm. It provides use
 - Text-based storage
 
 ## 📁 Files
-rideSharingSystem.sh
-admin.txt
-userInformation.txt
-riderInformation.txt
-location.txt
-rideRequest.txt
+rideSharingSystem.sh,
+admin.txt,
+userInformation.txt,
+riderInformation.txt,
+location.txt,
+rideRequest.txt,
 ridingInformation.txt
 
 
