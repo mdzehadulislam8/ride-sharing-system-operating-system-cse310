@@ -202,6 +202,12 @@ Matches data from:
 
 ---
 
+### 🚴 Rider Accept Ride  
+![Rider Accept Ride](https://drive.google.com/uc?export=view&id=1S-iTqBq3ZU2h--C4BlafBy3NLunIN_Dq)
+
+
+---
+
 ## 📊 Performance Evaluation
 
 - ✔ Fast execution time  
@@ -237,7 +243,7 @@ Matches data from:
 For full system explanation including **algorithms, evaluation, screenshots & details**, check the complete project report:
 
 📥 **Project Report (PDF):**  
-[📥 Download Project Report (PDF)](https://drive.google.com/file/d/1CdSkJBRGYedwmjKJV-Pa-zh9TEq-sRAJ/view?usp=drive_link)
+[Download Project Report (PDF)](https://drive.google.com/file/d/1CdSkJBRGYedwmjKJV-Pa-zh9TEq-sRAJ/view?usp=drive_link)
 
 
 ---
