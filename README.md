@@ -134,6 +134,8 @@ id=$(date +%s)
 
 ## Screenshots
 
+> *(Include only essential screenshots for clarity — more detail is in project report)*
+
 **Main Menu**  
 ![Main Menu](https://drive.google.com/uc?export=view&id=1bs-LDjLNsgJ3vgpRDSnWcGclWTkMtjGr)
 
@@ -179,7 +181,9 @@ id=$(date +%s)
 
 ---
 
-## Project Report
+## Full Project Documentation
+
+For a comprehensive overview of the project — including **flowcharts, complete screenshots, data schemas, testing methodology, and performance evaluation** — please consult the full project report (PDF):
 
 [Download Project Report (PDF)](https://drive.google.com/file/d/1CdSkJBRGYedwmjKJV-Pa-zh9TEq-sRAJ/view?usp=drive_link)
 
